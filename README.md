@@ -53,10 +53,24 @@
 
 
 ## Output:
+X Axis Assembly:
+![image](https://github.com/Sangavi-suresh/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118541861/52386b57-a9b3-4645-8254-f6efd0619ae3)
+
+Smooth Rod : Smooth rods play a vital role in ensuring the stability, accuracy, and smooth motion of various components in 3D printers. Their low-friction properties help reduce wear and tear, minimize vibrations, and contribute to high-quality prints.
+
+Bearing : Bearings contribute to improve print quality, accuracy, and overall performance by minimizing friction, reducing wear and tear, and ensuring smooth movement of various components within the printer.
+
+Idler : Idlers are critical for maintaining proper tension, guiding the filament or belts, and ensuring smooth and controlled movement within the printer.
+
+Extruder: Extruder ensures proper filament feeding, controls filament movement, melts the filament, and extrudes it accurately to create the desired printed object.
+
+Motor: Motors are responsible for driving the movement of various components, controlling filament feeding, regulating temperature, and achieving precise positioning
+
+![image](https://github.com/Sangavi-suresh/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118541861/ecb3fb69-5435-4f24-a6c9-0a7d583f5c99)
 
 
-### Name:
-### Register Number: 
+### Name:sangavi suresh
+### Register Number: 212222230130
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
