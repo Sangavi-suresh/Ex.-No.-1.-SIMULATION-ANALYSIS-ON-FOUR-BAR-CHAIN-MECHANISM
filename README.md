@@ -2,7 +2,7 @@
 
 ## DATE: 
 
-## AIM:
+## AIM: 
 
 ###   To determine & simulate the displacement & velocity analysis for the given four bar chain mechanism. 
 
