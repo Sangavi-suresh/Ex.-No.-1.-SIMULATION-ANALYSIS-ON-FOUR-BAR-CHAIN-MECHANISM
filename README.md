@@ -53,59 +53,8 @@
 
 
 ## Output:
-X Axis Assembly:
-![image](https://github.com/Sangavi-suresh/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118541861/52386b57-a9b3-4645-8254-f6efd0619ae3)
+![image](https://github.com/Sangavi-suresh/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118541861/a5290ff5-8e49-471f-9117-8a992cf9ac45)
 
-Smooth Rod :
-Smooth rods play a vital role in ensuring the stability, accuracy, and smooth motion of various components in 3D printers. Their low-friction properties help reduce wear and tear, minimize vibrations, and contribute to high-quality prints.
-
-Bearing :
-Bearings contribute to improve print quality, accuracy, and overall performance by minimizing friction, reducing wear and tear, and ensuring smooth movement of various components within the printer.
-
-Idler :
-Idlers are critical for maintaining proper tension, guiding the filament or belts, and ensuring smooth and controlled movement within the printer.
-
-Extruder:
-Extruder ensures proper filament feeding, controls filament movement, melts the filament, and extrudes it accurately to create the desired printed object.
-
-Motor:
-Motors are responsible for driving the movement of various components, controlling filament feeding, regulating temperature, and achieving precise positioning
-
-y-axis assembly:
-![image](https://github.com/Sangavi-suresh/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118541861/ecb3fb69-5435-4f24-a6c9-0a7d583f5c99)
-
-Y-axis Supporter:
-The X axis on a 3D printer is usually the lateral movement left to right (or vice versa), while the Y axis on a printer represents movement forward and back.
-
-Horizontal & Vertical Threaded rod:
-In 3D printing, horizontal and vertical threaded rods play important roles in the operation of the printer, specifically in the movement and positioning of the print head or build platform
-
-Smooth Rod:
-They, also known as linear rods or guide rods, play an important role in 3D printing by providing stability, support, and smooth linear motion to various components of the printer
-
-Pulley:
-They plays an important role in the motion system of the printer, specifically in the operation of the printer's belts. Pulleys are used to guide and control the movement of the belts
-
-Motor :
-They are essential components of a 3D printer that take care of the movements of the axes . You determine the power, temperature and operating volume of the 3D printer's motors
-
-Y-Axis Frame :
-A structural component that provides stability and support to the printer's motion system. It plays a crucial role in ensuring accurate and or build plate along the X-axis.
-
-Y-Axis Base :
-It is an essential component that provides structural support and stability to the printer's motion system. It plays a crucial role in enabling
-
-Z-AXIS ASSEMBLY:
-![image](https://github.com/Sangavi-suresh/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118541861/80cf8ae9-6add-4dad-884d-ea70ebf21da4)
-
-Z-Axis Rod :
-It serves as a guiding and support element for the motion of the print head or the build plate along the X-axis. It plays a crucial role in ensuring smooth, controlled
-
-Z-Axis Top Cover :
-That mainly related to safety and protection of the printer's components. While it may vary in design and implementation depending on the specific printer model.
-
-Motor :
-They are essential components of a 3D printer that take care of the movements of the axes . You determine the power, temperature and operating volume of the 3D printer's motors
 ### Name:sangavi suresh
 ### Register Number: 212222230130
 
